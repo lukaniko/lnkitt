@@ -18,4 +18,4 @@ How to proceed:<br>
 7 - Upload the Sketch to the nodeMCU <br>
 8 - Now you can download and install the lnkitt-wifi-xxx.apk into your android smarthphone<br> (must remove the google apps restriction)<br>
 9 - Turn on the smartphone wifi, scan and find the ESPxxxx access point and connect to this<br>
-10 - Open the lnkitt app. you can find some type of effects and you can change the speed (showed speed is in reverse mode)<br>
+10 - Open the lnkitt app. you can find some type of effects and you can change the speed (N.B. lower value = speed faster)<br>
