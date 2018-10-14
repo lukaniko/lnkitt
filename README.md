@@ -1,5 +1,6 @@
 # LN K.I.T.T. 
 LN K.I.T.T. lights effects for nodeMCU (arduino IDE code) with effects and wifi android app
+It's a project to recreate the Knight Rider K.I.T.T lights effect in front of the Supercar.
 
 What do you need:<br>
 
