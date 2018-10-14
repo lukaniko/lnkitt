@@ -9,7 +9,7 @@ What do you need:
 5 - USB cable
 
 How to proceed:
-1 - Install the Arduino IDE, download here : https://www.arduino.cc/en/Main/Software
+1 - Install the Arduino IDE, download here : https://www.arduino.cc/en/Main/Software <br>
 2 - Follow the tutorial to install the ESP8266 libraryes : https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/
 3 - Connect the nodeMCU to the pc with the USB cable
 4 - Check and set the COM port where the nodeMCU is connected under TOOLS -> Port
