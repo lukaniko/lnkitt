@@ -19,3 +19,8 @@ How to proceed:<br>
 8 - Now you can download and install the lnkitt-wifi-xxx.apk into your android smarthphone<br> (must remove the google apps restriction)<br>
 9 - Turn on the smartphone wifi, scan and find the ESPxxxx access point and connect to this<br>
 10 - Open the lnkitt app. you can find some type of effects and you can change the speed (N.B. lower value = speed faster)<br>
+
+The Circuit:<br>
+Led from 1 to 8,are connected to the pins D0,D1,D2,D3,D5,D6,D7,D8 intended like positive 3 volts <br>
+Ground is common connected with a 1000 ohm resistor for all LED. <br>
+In case 2 or more led are on, we have an attenuation, to avoid this, you must use eight resistor,one for each led connected to the negative<br>
