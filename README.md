@@ -34,7 +34,7 @@ Roadmap:
 
 1 - Add more effects <br>
 2 - Add more features to the app <br>
-3 - Made a circuit able to drive big led or lamps, using the 12 volts car<br>
+3 - Made a circuit able to drive big led or lamps, using the 12 volts on car<br>
 
 Special Thanks! <br>
 
