@@ -28,7 +28,7 @@ The Circuit:<br>
 
 Led from 1 to 8,are connected to the pins D0,D1,D2,D3,D5,D6,D7,D8 intended like positive 3 volts <br>
 Ground is common connected with a 1000 ohm resistor for all LED. <br>
-In case 2 or more led are on, we have an attenuation, to avoid this, you must use eight resistor,one for each led connected to the negative<br>
+In case 2 or more led are simultaneously turned on, we have an attenuation. To avoid this, you must use eight resistor,one for each led connected to the negative<br>
 
 
 Roadmap:
