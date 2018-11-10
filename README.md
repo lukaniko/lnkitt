@@ -13,7 +13,7 @@ What do you need:<br>
 
 How to proceed:<br>
 
-1 - Preapare the nodeMCU on a breadboard or PCB and made the circuit. (see the circuit section)<br>
+1 - Prepare the nodeMCU on a breadboard or PCB and made the circuit. (see the circuit section)<br>
 2 - Install the Arduino IDE, download here : https://www.arduino.cc/en/Main/Software <br>
 3 - Follow the tutorial to install the ESP8266 libraryes : https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/<br>
 4 - Connect the nodeMCU to the pc with the USB cable <br>
