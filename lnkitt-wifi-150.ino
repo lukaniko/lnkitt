@@ -1,4 +1,4 @@
-// 08/08/2018 - 14/10/2018
+// 08/08/2018 - 01/09/2018
 // K.I.T.T. Lights Effects by Luca Nicolini V 1.50 WiFi
 // For nodeMCU, programmed and compiled through Arduino IDE
 //
