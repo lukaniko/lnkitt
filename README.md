@@ -41,3 +41,8 @@ Special Thanks! <br>
 
 Paolo Esposto for the great help to develope the code. <br>
 
+
+<p align="center">
+  <img src="https://github.com/lukaniko/lnkitt/Android-APP-Screenshot-1.jpg" width="350" title="">
+  <img src="https://github.com/lukaniko/lnkitt/Android-APP-Screenshot-1.jpg" width="350" alt="">
+</p>
