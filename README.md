@@ -46,5 +46,5 @@ Paolo Esposto for the great help to develope the code. <br>
   <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-1.jpg" width="350" title="">
   <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-2.jpg" width="350" alt="">
   <br>
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="350" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="700" alt="">
 </p>
