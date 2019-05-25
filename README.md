@@ -29,6 +29,7 @@ How to proceed:<br>
 The Circuit:<br>
 
 Led from 1 to 8,are connected to the pins D0(GPIO16),D1(GPIO5),D2(GPIO4),D4(GPIO2),D5(GPIO14),D6(GPIO12),D7(GPIO13),D8(GPIO15) intended like positive 3 volts <br>
+<img src="https://github.com/lukaniko/lnkitt/blob/master/nodemcu8266.png" width="300" alt=""<br>
 
 Roadmap:
 
