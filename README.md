@@ -39,12 +39,12 @@ Roadmap:
 Special Thanks! <br>
 <font color="red">Paolo Esposto for the great help to develope code and hardware issues.</font><br>
 <p align="center">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="100" alt="">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step1.jpg" width="100" alt="">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step2.jpg" width="100" alt="">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step3.jpg" width="100" alt="">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step4.jpg" width="100" alt="">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-1.jpg" width="250" title="">
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-2.jpg" width="250" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="300" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step1.jpg" width="300" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step2.jpg" width="300" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step3.jpg" width="300" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step4.jpg" width="300" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-1.jpg" width="300" title="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-2.jpg" width="300" alt="">
   <br>
 </p>
