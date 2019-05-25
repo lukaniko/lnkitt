@@ -45,13 +45,11 @@ Special Thanks! <br>
   <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-1.jpg" width="350" title="">
   <img src="https://github.com/lukaniko/lnkitt/blob/master/Android-APP-Screenshot-2.jpg" width="350" alt="">
   <br>
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="700" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="500" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step1.jpg" width="500" alt="">
   <br>
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step1.jpg" width="700" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step2.jpg" width="500" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step3.jpg" width="500" alt="">
   <br>
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step2.jpg" width="700" alt="">
-  <br>
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step3.jpg" width="700" alt="">
-  <br>
-  <img src="https://github.com/lukaniko/lnkitt/blob/master/step4.jpg" width="700" alt="">
+  <img src="https://github.com/lukaniko/lnkitt/blob/master/step4.jpg" width="500" alt="">
 </p>
