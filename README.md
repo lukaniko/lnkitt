@@ -1,15 +1,17 @@
-# LN K.I.T.T. 
-LN K.I.T.T. lights effects for nodeMCU (arduino IDE code) with effects and wifi android app
+# LN K.I.T.T. V1.70 <br>
+LN K.I.T.T. lights effects for nodeMCU (arduino IDE code) with effects, wifi and android app.
 It's a project to recreate the Knight Rider K.I.T.T lights effect in front of the Supercar.
 
 What do you need:<br>
 
-1 - A nodeMCU ESP8266 or ESP12E<br>
-2 - A breadboard or PCB<br>
-3 - 8 Led<br>
-4 - A 1000 Ohm resistor<br>
-5 - Arduino IDE program with ESP8266 libraryes<br>
-6 - USB cable<br>
+- Arduino IDE program with ESP8266 libraryes   <a href="https://www.arduino.cc/en/Main/Software">Download-Link</a><br>
+- A USB cable<br>
+- A nodeMCU ESP8266<br>
+- A breadboard or PCB<br>
+- 8 TIP31C (or NPN transistors suited to the power you want to handle)<br>
+- 2 1K Ohm resistors<br>
+- 7 220 Ohm resistors<br>
+- 1 LM7805 voltage regulator<br>
 
 How to proceed:<br>
 
@@ -26,20 +28,17 @@ How to proceed:<br>
 
 The Circuit:<br>
 
-Led from 1 to 8,are connected to the pins D0,D1,D2,D3,D5,D6,D7,D8 intended like positive 3 volts <br>
-Ground is common connected with a 1000 ohm resistor for all LED. <br>
-In case 2 or more led are simultaneously turned on, we have an attenuation. To avoid this, you must use eight resistor,one for each led connected to the negative<br>
-
+Led from 1 to 8,are connected to the pins D0(GPIO16),D1(GPIO5),D2(GPIO4),D4(GPIO2),D5(GPIO14),D6(GPIO12),D7(GPIO13),D8(GPIO15) intended like positive 3 volts <br>
 
 Roadmap:
 
 1 - Add more effects <br>
 2 - Add more features to the app <br>
-3 - Made a circuit able to drive big led or lamps, using the 12 volts on car<br>
+3 - Made a circuit able to drive big led or lamps, using the 12 volts on car /  <font color="red">DONE 25/05/2019</font><br>
 
 Special Thanks! <br>
 
-Paolo Esposto for the great help to develope the code. <br>
+<font color="red">Paolo Esposto for the great help to develope the code.</font><br>
 
 
 <p align="center">
