@@ -39,7 +39,7 @@ String INDEX_HTML =
 "</head>"
 "<body>"
 "<center>"
-"<h1>K.I.T.T. Sequential lights<br> by Luca Nicolini<br> V1.50 WiFi</h1>"
+"<h1>K.I.T.T. Sequential lights<br> by Luca Nicolini<br> V1.70 WiFi</h1>"
 
 "<FORM action=\"/\" method=\"GET\">"  
    "<legend>Select Effect</legend>"
