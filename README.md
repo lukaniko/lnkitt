@@ -39,9 +39,9 @@ Roadmap:
 
 Special Thanks! <br>
 <font color="red">Paolo Esposto for the great help to develope code and hardware issues.</font><br>
+Project developed by P.E.S.P.TE.C. Progettazione e sviluppo Progetti tecnologici condivisi<br><br>
 <p align="center">
   <img src="https://github.com/lukaniko/lnkitt/blob/master/breadboard-1.jpg" width="300" alt="">
-  Project developed by P.E.S.P.TE.C. Progettazione e sviluppo Progetti tecnologici condivisi<br>
   <img src="https://github.com/lukaniko/lnkitt/blob/master/step1.jpg" width="300" alt="">
   <img src="https://github.com/lukaniko/lnkitt/blob/master/step2.jpg" width="300" alt=""><br>
   <img src="https://github.com/lukaniko/lnkitt/blob/master/step3.jpg" width="300" alt="">
